@@ -40,7 +40,6 @@ I am a pentester with a strong passion for cybersecurity—always eager to learn
 
 ## 📈 GitHub Stats
 
-![alequinterok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alequinterok&show_icons=true&hide_title=true&hide_rank=true&hide=prs&count_private=true&theme=default#gh-light-mode-only)
 ![alequinterok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alequinterok&show_icons=true&hide_title=true&hide_rank=true&hide=prs&count_private=true&theme=dark#gh-dark-mode-only)
 
 ---
