@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGVuNGt2YW01M3F2M3c3OHJ5amo3aTkybjgzNnJyeWx4ZDdyYXhmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8fRwPZtbWkkX6/giphy.gif" alt="Matrix Hacker GIF" width="400"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGVuNGt2YW01M3F2M3c3OHJ5amo3aTkybjgzNnJyeWx4ZDdyYXhmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8fRwPZtbWkkX6/giphy.gif" alt="Matrix Hacker GIF" width="800"/>
 </p>
 
 # 👋 Hi, I’m Alejandro Quintero (alequinterok)
