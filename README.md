@@ -24,17 +24,17 @@ Here are some ideas to get you started:
 
 ---
 
+## 👀 About Me
+
+I am a pentester with a strong passion for cybersecurity—always eager to learn about hardware hacking and new offensive security techniques. I enjoy digging deep into systems, uncovering vulnerabilities, and sharing knowledge with the community.
+
+---
+
 ## 🛠️ Skills
 
 - **Cybersecurity Assessments** (pentesting, vulnerability analysis)
 - **Linux** (system administration, scripting, automation)
 - **Python Scripting** (custom tools, automation, exploit development)
-
----
-
-## 👀 About Me
-
-I am a pentester with a strong passion for cybersecurity—always eager to learn about hardware hacking and new offensive security techniques. I enjoy digging deep into systems, uncovering vulnerabilities, and sharing knowledge with the community.
 
 ---
 
