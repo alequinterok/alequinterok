@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 </p>
 
 
-👨‍💻 **Pentester** | Cybersecurity Enthusiast  
+👨‍💻 **Pentester** | Cybersecurity | OffSec
 🔒 Specializing in cybersecurity assessments, Linux, and Python scripting
 
 ---
 
 ## 👀 About Me
 
-I am a pentester with a strong passion for cybersecurity—always eager to learn about hardware hacking and new offensive security techniques. I enjoy digging deep into systems, uncovering vulnerabilities, and sharing knowledge with the community.
+I am a pentester with a strong passion for cybersecurity. I specialize in discovering and exploiting vulnerabilities to enhance organizational security and I'm always looking for ways to grow and gain hands-on experience in cybersecurity.
 
 ---
 
