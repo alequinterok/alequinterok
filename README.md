@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 
 👨‍💻 **Pentester** | **Cybersecurity** | **OffSec**
+---
 🔒 Specializing in cybersecurity assessments, Linux, and Python scripting
 
 ---
